@@ -3,6 +3,27 @@
 Release History
 ---------------
 
+2.5.10 (2024-02-15)
++++++++++++++++++++
+
+**Bug Fixes**
+
+- Take II on handling US early races
+
+2.5.9 (2024-02-14)
++++++++++++++++++++
+
+**Bug Fixes**
+
+- Correctly handle US races starting early when simulating TPD
+
+2.5.8 (2024-02-12)
++++++++++++++++++++
+
+**Bug Fixes**
+
+- #743 fok multiple issues (@mzaja)
+
 2.5.7 (2024-01-15)
 +++++++++++++++++++
 
