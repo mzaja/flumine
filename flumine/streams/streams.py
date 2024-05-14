@@ -167,7 +167,7 @@ class Streams:
         market_definition: Optional[MarketDefinition],
         event_processing: bool,
         event_groups: dict,
-        **listener_kwargs
+        **listener_kwargs,
     ) -> HistoricalStream:
         for stream in self:
             # Get the expected event group of a stream considering its event id and group mapping
